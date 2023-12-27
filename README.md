@@ -1,9 +1,11 @@
 # UNP-Project_BI-with-Power-BI_HR-Data
-1.Worked on the HR attrition data 
-Analyzed on the Various Factors that are effecting the attrition rate of employees in the organization.
-2.Based on  the analysis we came up with insights and suggestions that optimized workforce management with HR Employee Attrition Data Project using Power BI.
-3. Visualize key attrition metrics.
- Analyze trends. 
-4.Empower decision-makers with actionable insights for effective talent retention and strategic HR planning.
+Completed this project as a part of my BI with PowerBI internship with UNP. It provides a data visualisation showing the impact of several factors on attrition based on HR Data. To clarify the same, we have designed a dashboard with a variety of slicers, cards, and charts.
+
+Key highlights:
+
+Contributed in the creation of complex KPIs and dynamic, interactive Power Bl user interfaces.
+Acquired the ability to examine data and transform it into useful Power BI solutions.
+Enhanced proficiency in developing data models, applied DAX for data transformations and computations to provide precise analysis and reporting.
+Lead the group through the intricate information symphony.
 pbix link:https://drive.google.com/file/d/1BhhKi21qPIZvkEwiJN3f3_ktfmyGhHiG/view?usp=drive_link
 ppt link:https://drive.google.com/file/d/1enjVOr8Z16kf7rfLvl3-bHaKhyN81T2S/view?usp=drive_link
